@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+}
+
+:root {
+    --bg-color: rgb(32, 219, 126);
+    --bg-color-dark: rgb(180, 30, 40);
+    
+}
